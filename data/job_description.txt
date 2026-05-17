@@ -1,0 +1,8 @@
+We are looking for a Python Developer with experience in:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+AWS
+Scikit-learn

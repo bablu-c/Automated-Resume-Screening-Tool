@@ -1,0 +1,2 @@
+Resume,TF-IDF Score,Skill Bonus,Experience Bonus,Final Score,Experience (Years),Matched Skills,Missing Skills,Decision
+resume1.txt,61.27,30,4,95.27,2,"python, machine learning, pandas, sql, numpy, aws","data analysis, excel, power bi, django, flask",Highly Recommended

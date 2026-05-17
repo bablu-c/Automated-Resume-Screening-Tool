@@ -1,0 +1,15 @@
+John Doe
+
+Python Developer
+
+Skills:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+Scikit-learn
+AWS
+
+Experience:
+2 years experience in Python development and machine learning projects.
